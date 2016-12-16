@@ -22,3 +22,4 @@ Addons
 * [percy](https://github.com/percy/ember-percy) — Ember addon for visual regression testing with Percy
 * [route-action-helper](https://github.com/dockyard/ember-route-action-helper) — Bubble closure actions in routes
 * [validations](https://github.com/dockyard/ember-validations) — Validations for Ember Objects
+* [websockets](https://github.com/thoov/ember-websockets) — EmberJS WebSockets and Socket.IO addon for Ember-CLI apps.
