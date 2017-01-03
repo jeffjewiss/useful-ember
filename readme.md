@@ -9,6 +9,7 @@ Addons
 
 * [ajax](https://github.com/ember-cli/ember-ajax) — Service for making AJAX requests in Ember 1.13+ applications.
 * [best-practices](https://github.com/chadhietala/ember-best-practices) — Static analysis tools for enforcing best practices in Ember
+* [code-coverage](https://github.com/kategengler/ember-cli-code-coverage) — Code coverage for ember apps using Istanbul
 * [composable-helpers](https://github.com/DockYard/ember-composable-helpers) — Composable helpers for declarative templating in Ember
 * [concurrency](https://github.com/machty/ember-concurrency) — ember-concurrency is an Ember Addon that enables you to write concise, worry-free, cancelable, restartable, asynchronous tasks.
 * [engines](https://github.com/dgeb/ember-engines) — Experimental support for the Ember Engines RFC
