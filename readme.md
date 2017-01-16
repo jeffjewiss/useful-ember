@@ -18,6 +18,7 @@ Addons
 * [hook](https://github.com/Ticketfly/ember-hook) — Yerrr tests be brittle, mattie!!!
 * [in-viewport](https://github.com/dockyard/ember-in-viewport) — Detect if an Ember View or Component is in the viewport @ 60FPS
 * [inline-svg](https://github.com/minutebase/ember-inline-svg) — Ember CLI addon to render SVG images inline
+* [intl](https://github.com/jasonmit/ember-intl) — Translate complex message with localized date/time and number formatting. Everything you need for localization.
 * [keyboard](https://github.com/null-null-null/ember-keyboard) — An Ember.js addon for the painless support of keyboard events
 * [meta-tags](https://github.com/ronco/ember-cli-meta-tags) — Set Head Tags From Ember Routes
 * [metrics](https://github.com/poteto/ember-metrics) — Send data to multiple analytics integrations without re-implementing new API
