@@ -13,6 +13,7 @@ Addons
 * [composable-helpers](https://github.com/DockYard/ember-composable-helpers) — Composable helpers for declarative templating in Ember
 * [concurrency](https://github.com/machty/ember-concurrency) — ember-concurrency is an Ember Addon that enables you to write concise, worry-free, cancelable, restartable, asynchronous tasks.
 * [engines](https://github.com/dgeb/ember-engines) — Experimental support for the Ember Engines RFC
+* [eslint](https://github.com/ember-cli/ember-cli-eslint) — Ember CLI addon for linting Ember projects with ESLint
 * [flash](https://github.com/poteto/ember-cli-flash) — Simple, highly configurable flash messages for ember-cli
 * [google-fonts](https://github.com/damiencaselli/ember-cli-google-fonts) — ember-cli addon for Google Fonts
 * [hook](https://github.com/Ticketfly/ember-hook) — Yerrr tests be brittle, mattie!!!
