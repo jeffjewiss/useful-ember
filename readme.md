@@ -12,6 +12,7 @@ Addons
 * [code-coverage](https://github.com/kategengler/ember-cli-code-coverage) — Code coverage for ember apps using Istanbul
 * [composable-helpers](https://github.com/DockYard/ember-composable-helpers) — Composable helpers for declarative templating in Ember
 * [concurrency](https://github.com/machty/ember-concurrency) — ember-concurrency is an Ember Addon that enables you to write concise, worry-free, cancelable, restartable, asynchronous tasks.
+* [contextual-table](https://github.com/tubitak-bilgem-yte/ember-contextual-table) — a new table component that depends on ember contextual component concept
 * [engines](https://github.com/dgeb/ember-engines) — Experimental support for the Ember Engines RFC
 * [eslint](https://github.com/ember-cli/ember-cli-eslint) — Ember CLI addon for linting Ember projects with ESLint
 * [flash](https://github.com/poteto/ember-cli-flash) — Simple, highly configurable flash messages for ember-cli
