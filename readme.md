@@ -26,5 +26,6 @@ Addons
 * [metrics](https://github.com/poteto/ember-metrics) — Send data to multiple analytics integrations without re-implementing new API
 * [percy](https://github.com/percy/ember-percy) — Ember addon for visual regression testing with Percy
 * [route-action-helper](https://github.com/dockyard/ember-route-action-helper) — Bubble closure actions in routes
+* [template-lint](https://github.com/rwjblue/ember-cli-template-lint) — Lint templates for style rules
 * [validations](https://github.com/dockyard/ember-validations) — Validations for Ember Objects
 * [websockets](https://github.com/thoov/ember-websockets) — EmberJS WebSockets and Socket.IO addon for Ember-CLI apps.
